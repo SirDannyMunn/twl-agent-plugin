@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "twl",
+  "version": "0.1.0",
+  "description": "Connect to TWL workflows, campaigns, data workspaces, documents, signals, spaces, and browser actions through the hosted TWL MCP server.",
+  "author": {
+    "name": "TWL",
+    "url": "https://usetwl.com"
+  },
+  "homepage": "https://usetwl.com",
+  "repository": "https://github.com/SirDannyMunn/twl-agent-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "twl",
+    "workflows",
+    "automation",
+    "mcp"
+  ]
+}
